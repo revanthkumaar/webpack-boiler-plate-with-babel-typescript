@@ -1,8 +1,8 @@
 module.exports = {
-  semi: false,
-  trailingComma: 'es5',
+  semi: false, //to add semicolons 
+  trailingComma: 'es5', //es5, none, all
   singleQuote: true,
   printWidth: 80,
   tabWidth: 2,
-  endOfLine: 'auto'
+  endOfLine: 'auto' //lf , crlf, cr, auto
 }

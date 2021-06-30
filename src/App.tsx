@@ -1,10 +1,15 @@
-import ApiComponent from './apiComponent'
+//import ApiComponent from './apiComponent.js'
+import React from 'react'
 
-export const App = () => {
+
+const App = () => {
   return (
     <>
       <h1>Testing webpack</h1>
-      <ApiComponent/>
+     
     </>
   )
 }
+
+
+export default App;
